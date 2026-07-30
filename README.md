@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot+by+@nikhil.saini.khe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,24 +38,7 @@
 
 ## 📦 Deploy via Buttons
 
-[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render)](https://render.com/deploy)  
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/rohanh6609/saini-txt-direct)  
-[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to-Koyeb-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/deploy?name=saini-txt-direct&repository=nikhilsainiop%2FSaini-txt-direct&branch=main&instance_type=free&instances_min=0)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/devdilip222-rgb/Saini_drm)  
 
 ---
 
-## 🤖 Bot Usernames
-
-- [@saini_contact_bot](https://t.me/saini_contact_bot)
-- [@saini_file_store_bot](https://t.me/saini_file_store_bot)
-
----
-
-## 📂 Original Repositories
-
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
-- 🔗 [cyberseller999/saini-txt-direct](https://github.com/cyberseller999/saini-txt-direct)
-
----
-
-> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
