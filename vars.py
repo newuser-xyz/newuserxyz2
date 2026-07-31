@@ -1,4 +1,4 @@
-#🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌
+#𓍯𝙤𝙜𝙗𝙝𝙖𝙩𝙞𝙬𝙖𝙡⚝
 # Add your details here and then deploy by clicking on HEROKU Deploy button
 import os
 from os import environ
@@ -7,8 +7,8 @@ API_ID = int(environ.get("API_ID", "20783440"))
 API_HASH = environ.get("API_HASH", "5d95bcc06b5bb466dd8fb0efe2e0ce0a")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-OWNER = int(environ.get("OWNER", "7296804563"))
-CREDIT = environ.get("CREDIT", "『ᴀᴅᴍɪɴ』")
+OWNER = int(environ.get("OWNER", "1193248592"))
+CREDIT = environ.get("CREDIT", "𓍯𝙤𝙜𝙗𝙝𝙖𝙩𝙞𝙬𝙖𝙡⚝")
 
 TOTAL_USER = os.environ.get('TOTAL_USERS', '7296804563').split(',')
 TOTAL_USERS = [int(user_id) for user_id in TOTAL_USER]
